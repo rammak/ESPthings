@@ -4,7 +4,7 @@
  *
  * Board tested on - ESP32 Wemos Lolin32 Lite
  *
- * Created on 12/2/2017 by legendary6
+ * Created on 12/2/2017 by RammaK
  */
 
 #include <WiFi.h>
