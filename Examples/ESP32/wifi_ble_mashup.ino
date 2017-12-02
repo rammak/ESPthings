@@ -1,12 +1,11 @@
 /*
-  Example to demonstrate ESP32's ability to act as a wifi station and
-  BLE server simultaneously (while running MQTT!)
-
-  Board tested on - ESP32 Wemos Lolin32 Lite
-  
-  Created on 12/2/2017 by RammaK
-
-*/
+ * Example to demonstrate ESP32's ability to act as a wifi station and
+ * BLE server simultaneously (while running MQTT!)
+ *
+ * Board tested on - ESP32 Wemos Lolin32 Lite
+ *
+ * Created on 12/2/2017 by legendary6
+ */
 
 #include <WiFi.h>
 #include <PubSubClient.h>
