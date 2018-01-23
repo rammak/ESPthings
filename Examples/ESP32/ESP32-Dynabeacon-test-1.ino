@@ -1,6 +1,11 @@
 /*
-    Based on Neil Kolban example for IDF: https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleServer.cpp
-    Ported to Arduino ESP32 by Evandro Copercini
+ * ESP32-Dynabeacon
+ * Non-connectable beacon that changes scan response data periodically
+ * 
+ * Tested on ESP32 devkit
+ * 
+ * Created on 23-1-2018 by RammaK
+ * Based on Neil Kolban's ESP32-BLE library at https://github.com/nkolban/ESP32_BLE_Arduino
 */
 
 #include <BLEDevice.h>
